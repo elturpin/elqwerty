@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xkbConfigRegistry SYSTEM "xkb.dtd">
+<xkbConfigRegistry version="1.1">
+  <layoutList>
+    <!-- Declare a new layout and its variants -->
+    <layout>
+      <!-- Default variant: `default … xkb_symbols "…"` -->
+      <configItem>
+        <!-- File name of $XDG_CONFIG_HOME/xkb/symbols/elqwerty -->
+        <name>elqwerty</name>
+        <shortDescription>elq</shortDescription>
+        <!-- Label: use the value of `name[Group1]` -->
+        <description>ElQwerty</description>
+      </configItem>
+    </layout>
+  </layoutList>
+</xkbConfigRegistry>
